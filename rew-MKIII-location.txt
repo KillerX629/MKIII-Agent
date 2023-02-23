@@ -1,0 +1,1 @@
+/home/ignacio/Documents/repos/Gym/lib/python3.8/site-packages/retro/data/stable/MortalKombat3-Genesis/reward.lua
