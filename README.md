@@ -10,7 +10,7 @@ This project is an implementation of a reinforcement learning algorithm using Te
 Requirements
 ------------
 
-*   Python 3.x
+*   Python 3.8
 *   TensorFlow
 *   Keras
 *   Gym-Retro
@@ -20,10 +20,9 @@ Installation
 ------------
 
 1.  Clone this repository to your local machine.
-2.  Install the required packages by running `pip install -r requirements.txt`.
+2.  Install the required packages by running `pip install -r reqs.txt`.
 3.  Download and install Gym-Retro by following the instructions in the [official documentation](https://retro.readthedocs.io/en/latest/getting_started.html).
-4.  Download the Mortal Kombat 3 Ultimate ROM and place it in the `roms` folder.
-5.  Run the training script with `python train.py`.
+4.  Run the training script with `python train.py`.
 
 Usage
 -----
@@ -42,9 +41,3 @@ Acknowledgements
 
 This project was inspired by the work of many researchers in the field of reinforcement learning. We would like to acknowledge their contributions to this field, which made this project possible.
 
-License
--------
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
