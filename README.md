@@ -1,5 +1,3 @@
-> help me make a readme.md for a github project. the project is using tensorflow, keras and gym-retro to train by reinforcement learning an ai in a mortal kombat 3 ultimate environment.
-
 ---
 
 Mortal Kombat 3 Ultimate AI using TensorFlow, Keras, and Gym-Retro
